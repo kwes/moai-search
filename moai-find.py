@@ -1,7 +1,7 @@
 import re
 import mechanicalsoup
 import urllib.request
-from inscriptis import get_text
+import inscriptis
 import os
 def cls():
     os.system('cls' if os.name=='nt' else 'clear')
