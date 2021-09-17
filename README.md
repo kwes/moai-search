@@ -15,3 +15,6 @@ paste or type
 cd moai-search
 python3 ./moai-find.py
 ```
+## commands
+```open``` type the url to go to the website, it loads the html from there
+```search``` searchs for urls with keywords
