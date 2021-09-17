@@ -3,3 +3,9 @@ moai-search is a little web browser in the terminal!
 
 # usage
 run the ```set.sh``` file to download the modules needed
+if you cant just paste this in terminal
+```
+sudo apt-get update
+sudo pip3 install inscriptis
+sudo pip3 install MechanicalSoup
+```
