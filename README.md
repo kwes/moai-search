@@ -9,3 +9,9 @@ sudo apt-get update
 sudo pip3 install inscriptis
 sudo pip3 install MechanicalSoup
 ```
+## running
+paste or type
+```
+cd moai-search
+python3 ./moai-find.py
+```
