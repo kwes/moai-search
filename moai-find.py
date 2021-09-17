@@ -1,11 +1,11 @@
 import re
 import mechanicalsoup
 import urllib.request
-import inscriptis
+from inscriptis import get_text
 import os
 def cls():
     os.system('cls' if os.name=='nt' else 'clear')
-
+cls()
 while True:
 
   x = input("moai search - $ ")
@@ -28,8 +28,9 @@ while True:
             target = re.sub(r"^/url\?q=([^&]*)&.*", r"\1", target)
             print(target)
   elif x == "open":
-    res = input("website to open? (e.g, https://github.com) - ")
-    url = res
+    res = input("type the url - https://")
+    cls()
+    url = "https://" + res
     html = urllib.request.urlopen(url).read().decode('utf-8')
 
     text = get_text(html)
