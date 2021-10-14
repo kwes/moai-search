@@ -1,7 +1,7 @@
 # moai-search
 moai-search is a little light web browser in the terminal!
 
-download - ```https://github.com/kwes/moai-search.git```
+download - ```git clone https://github.com/kwes/moai-search.git```
 # usage
 run the ```set.sh``` file to download the modules needed
 if you cant just paste this in terminal
