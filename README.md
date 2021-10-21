@@ -7,7 +7,7 @@ using git:
 
 or download it via latest release
 
-# usage
+# dependencies
 run the ```set.sh``` file to download the modules needed
 if you cant just paste this in terminal
 ```
