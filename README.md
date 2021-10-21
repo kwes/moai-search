@@ -5,7 +5,7 @@ moai-search is a little light web browser in the terminal!
 using git:
 ```git clone https://github.com/kwes/moai-search.git```
 
-downloading the release:
+or download it via latest release
 
 # usage
 run the ```set.sh``` file to download the modules needed
