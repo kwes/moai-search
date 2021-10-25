@@ -10,6 +10,7 @@ or download it via latest release
 # dependencies
 run the ```set.sh``` file to download the modules needed
 if you cant just paste this in terminal
+
 ```
 sudo apt-get update
 sudo pip3 install inscriptis
