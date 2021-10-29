@@ -26,3 +26,6 @@ python3 ./moai-find.py
 ```open``` type the url to go to the website, it loads the html from there
 
 ```search``` searchs for urls with keywords
+
+## other
+[inscripts](https://github.com/weblyzard/inscriptis) and [MechanicalSoup](https://github.com/MechanicalSoup/MechanicalSoup) dependices for making this possible!
