@@ -28,4 +28,4 @@ python3 ./moai-find.py
 ```search``` searchs for urls with keywords
 
 ## other
-[inscriptis](https://github.com/weblyzard/inscriptis) and [MechanicalSoup](https://github.com/MechanicalSoup/MechanicalSoup) dependices for making this possible!
+[inscriptis](https://github.com/weblyzard/inscriptis) and [MechanicalSoup](https://github.com/MechanicalSoup/MechanicalSoup) dependices were used
