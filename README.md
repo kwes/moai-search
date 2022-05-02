@@ -1,5 +1,5 @@
 # moai-search
-moai-search is a little light web browser in the terminal! designed for people who mainly read for the direct information.
+moai-search is a little light web browser in the terminal! designed for people who mainly read for information.
 
 ## download
 using git:
